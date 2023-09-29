@@ -1,3 +1,3 @@
 # HolaFX
 
-Ejemplos de javaFX para una comprensión más sencilla.
+## Ejemplos de javaFX para una comprensión más sencilla.
